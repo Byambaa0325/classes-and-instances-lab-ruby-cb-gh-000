@@ -1,2 +1,3 @@
-class radio_button_tag
-  E
+class Dog
+  
+end
